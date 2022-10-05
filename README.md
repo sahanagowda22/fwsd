@@ -1,3 +1,5 @@
 # fwsd
 My first repository on GitHub
-![image](https://user-images.githubusercontent.com/114467565/194080580-c1bd4e6f-a573-46f1-bdb3-399b2240a8d7.png)
+Download the zip file.
+Extract the zip file and run the code in "Visual Studio Code"
+Login page will appear where we have created it using HTML and CSS
